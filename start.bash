@@ -1,0 +1,1 @@
+./ethdcrminer64 -epool us1.ethermine.org:4444 -ewal 0x91b381021f83df44945ded1fe2026f62a5ed3489 -eworker asus -epsw x -mode 1 -dbg -1 -mport 0 -etha 0 -ftime 55 -retrydelay 1 -tt 79 -ttli 77 -tstop 89 
